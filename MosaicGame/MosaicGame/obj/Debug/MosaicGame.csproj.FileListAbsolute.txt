@@ -1,0 +1,12 @@
+E:\プログラミング練習\その他練習\C#\MosaicGame\MosaicGame\bin\Debug\MosaicGame.exe.config
+E:\プログラミング練習\その他練習\C#\MosaicGame\MosaicGame\bin\Debug\MosaicGame.exe
+E:\プログラミング練習\その他練習\C#\MosaicGame\MosaicGame\bin\Debug\MosaicGame.pdb
+E:\プログラミング練習\その他練習\C#\MosaicGame\MosaicGame\obj\Debug\MosaicGame.csprojResolveAssemblyReference.cache
+E:\プログラミング練習\その他練習\C#\MosaicGame\MosaicGame\obj\Debug\MosaicGame.Form1.resources
+E:\プログラミング練習\その他練習\C#\MosaicGame\MosaicGame\obj\Debug\MosaicGame.Properties.Resources.resources
+E:\プログラミング練習\その他練習\C#\MosaicGame\MosaicGame\obj\Debug\MosaicGame.csproj.GenerateResource.Cache
+E:\プログラミング練習\その他練習\C#\MosaicGame\MosaicGame\obj\Debug\MosaicGame.exe
+E:\プログラミング練習\その他練習\C#\MosaicGame\MosaicGame\obj\Debug\MosaicGame.pdb
+E:\Programing\その他練習\C#\MosaicGame\MosaicGame\bin\Debug\MosaicGame.exe.config
+E:\Programing\その他練習\C#\MosaicGame\MosaicGame\obj\Debug\MosaicGame.exe
+E:\Programing\その他練習\C#\MosaicGame\MosaicGame\obj\Debug\MosaicGame.pdb
